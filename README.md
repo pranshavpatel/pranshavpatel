@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m currently a newbie at open source and trying to contribute more and more to the community
 
 - 📫 How to reach me: 
-    - Twitter: @pranshav18
+    - Twitter: [@pranshav18](https://twitter.com/pranshav18)
     - Email: pranshavpatel1803@gmail.com
-    - Linkedin: linkedin.com/in/pranshav-patel-1a80b0231
+    - Linkedin: [Pranshav Patel](https://in.linkedin.com/in/pranshav-patel-1a80b0231)
 
 
