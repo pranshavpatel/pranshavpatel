@@ -47,7 +47,7 @@
 <a href="https://github.com/pranshavpatel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/pranshav18" target="_blank">
+<a href="https://twitter.com/pranshavtwts" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/pranshavpatel" target="_blank">
@@ -77,4 +77,4 @@
 </div>  
   
 <br/>  
-<p align="center"> <a href="https://twitter.com/pranshav18" target="blank"><img src="https://img.shields.io/twitter/follow/pranshav18?logo=twitter&style=for-the-badge" alt="pranshav18" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pranshavtwts" target="blank"><img src="https://img.shields.io/twitter/follow/pranshavtwts?logo=twitter&style=for-the-badge" alt="pranshavtwts" /></a> </p>
