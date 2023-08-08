@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Pranshav, a sophomore at Nirma University, pursuing Bachelors' in Computer Science & Engineering and a passionate front-end developer!</div>  
+### <div align="center">I'm Pranshav, a pre-final year student at Nirma University, pursuing Bachelors' in Computer Science & Engineering and a machine learning enthusiast</div>  
   
 
 - 🔭 I’m currently working on improving my skillset  
   
 
-- 🌱 I’m currently learning Javascript, React Js and Data Structures & Algorithms in Java  
-  
-
-- 💬 Ask me about Javascript  
+- 🌱 I’m currently learning Deep Learning and Data Structures & Algorithms  
   
 
 - 👯 I’m looking to collaborate on any promising project I can help with  
@@ -77,4 +74,4 @@
 </div>  
   
 <br/>  
-<p align="center"> <a href="https://twitter.com/pranshavtwts" target="blank"><img src="https://img.shields.io/twitter/follow/pranshavtwts?logo=twitter&style=for-the-badge" alt="pranshavtwts" /></a> </p>
+
