@@ -63,9 +63,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pranshavpatel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![pranshavpatel's GitHub | Stats](https://stats.quine.sh/pranshavpatel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranshavpatel)
+[![pranshavpatel's GitHub | Languages Over Time](https://stats.quine.sh/pranshavpatel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranshavpatel)
 
 <br/>  
+
 
 <br/>  
 
