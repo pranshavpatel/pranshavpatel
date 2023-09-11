@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pranshav, a pre-final year student at Nirma University, pursuing Bachelors' in Computer Science & Engineering and a machine learning enthusiast</div>  
+### <div align="center">I am Pranshav, a pre-final year student at Nirma University, pursuing Bachelors' in Computer Science & Engineering and a machine learning enthusiast</div>  
   
 
 - 🔭 I’m currently working on improving my skillset  
